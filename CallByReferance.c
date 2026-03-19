@@ -1,3 +1,5 @@
+/*
+pointer is not secure its use only in C Language*/
  #include<stdio.h>
     void swap(int *a,int *b)  // a=10,b=20
     {
